@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Aprendizagem por projetos integrados - API" ,
+        "name": "fa-API-Group-02(API-1º SEM)",
+        "description": "Desenvolver um site com análise de dados públicos, focando no eleitorado do Estado de São Paulo",
+        "image":"https://avatars.githubusercontent.com/u/79706351?s=200&v=4",
+        "link":"https://github.com/fa-API-Group-02" 
+    },
+    {
+        "title": "Aprendizagem por projetos integrados - API" ,
+        "name": "Polaris(API-2º SEM)",
+        "description": "Sensoriamento remoto (visualização de imagens de satélites)",
+        "image":"https://avatars.githubusercontent.com/u/88553952?s=200&v=4",
+        "link":"https://github.com/Equipe-Polaris-DSM-2021" 
+    },
+    {
+        "title": "Aprendizagem por projetos integrados - API" ,
+        "name": "Help-Duck(API-3º SEM)",
+        "description": "Desenvolvimento de site help desk para evitar retrabalho no ambiente empresarial",
+        "image":"https://avatars.githubusercontent.com/u/102299883?s=200&v=4",
+        "link":"https://github.com/The-Bugger-Ducks/help-duck-documentation" 
+    },
+    {
+        "title": "Aprendizagem por projetos integrados - API" ,
+        "name": "Cloud-Fox(API-4º SEM)",
+        "description": "Captação e disseminação de dados meteorológicos",
+        "image":"https://user-images.githubusercontent.com/80930525/204644249-e96367f3-4db8-4331-8593-01aa1dd06f48.png",
+        "link":"https://github.com/The-Bugger-Ducks/cloud-fox-documentation" 
+    },
+    {
+        "title": "Aprendizagem por projetos integrados - API" ,
+        "name": "Owl-Partners (API-5º SEM)",
+        "description": "Site para gerenciamento de parcerias",
+        "image":"https://github-production-user-asset-6210df.s3.amazonaws.com/80930525/288580223-ea1e55b1-061c-416b-a93d-f0f2e597bb74.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231207T000048Z&X-Amz-Expires=300&X-Amz-Signature=ff06a31bfd275a33495e3e4646da8f5c8f0eb2a7d7e853fc2a2c04a2290828eb&X-Amz-SignedHeaders=host&actor_id=80930525&key_id=0&repo_id=424782163",
+        "link":"https://github.com/The-Bugger-Ducks/owl-partners-documentation" 
+    },
+    {
+        "title": "Aprendizagem por projetos integrados - API" ,
+        "name": "Mood-Hound (API-6º SEM)",
+        "description": "Sistema de classificador de temas referente a atributos de produtos, serviços e processos operacionais a partir de comentários de clientes",
+        "image":"https://github-production-user-asset-6210df.s3.amazonaws.com/80930525/288580222-855df15b-6e20-4707-88fc-4cd8db7bd464.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231207T000141Z&X-Amz-Expires=300&X-Amz-Signature=8c8e4549ff23fb3405f6894d1e38506cf995a4b2715ad7393a702b6629ed97ab&X-Amz-SignedHeaders=host&actor_id=80930525&key_id=0&repo_id=424782163",
+        "link":"https://github.com/The-Bugger-Ducks/mood-hound-documentation" 
+    }
+]
