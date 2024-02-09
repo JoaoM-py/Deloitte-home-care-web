@@ -15,8 +15,6 @@ Este projeto necessita que a API seja baixada e executada (através deste link: 
 # Baixe este repositório ou clone pelo Git usando o comando:
 $ git clone https://github.com/JoaoM-py/Deloitte-home-care-web.git
 
-# criar um arquivo chamado ".env" e copiar a estrutura do arquivo ".env.example" e colocar seus respectivos dados
-
 # instale as dependencias
 $ yarn install
 
